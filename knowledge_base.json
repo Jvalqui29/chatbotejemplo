@@ -1,0 +1,72 @@
+{
+    "questions": [{
+            "question": "\u00c2\u00bfCu\u00c3\u00a1l es la ubicaci\u00c3\u00b3n del centro m\u00c3\u00a9dico?",
+            "answer": "Estamos ubicados en la Calle Principal, n\u00c3\u00bamero 123."
+        },
+        {
+            "question": "\u00c2\u00bfCu\u00c3\u00a1les son los horarios de atenci\u00c3\u00b3n?",
+            "answer": "Nuestros horarios de atenci\u00c3\u00b3n son de lunes a viernes de 9:00 AM a 6:00 PM y los s\u00c3\u00a1bados de 9:00 AM a 1:00 PM."
+        },
+        {
+            "question": "\u00c2\u00bfQu\u00c3\u00a9 especialidades m\u00c3\u00a9dicas ofrecen?",
+            "answer": "Ofrecemos una amplia gama de especialidades m\u00c3\u00a9dicas, incluyendo cardiolog\u00c3\u00ada, pediatr\u00c3\u00ada, ginecolog\u00c3\u00ada, y m\u00c3\u00a1s."
+        },
+        {
+            "question": "\u00c2\u00bfC\u00c3\u00b3mo puedo agendar una cita?",
+            "answer": "Puedes agendar una cita llamando a nuestro n\u00c3\u00bamero de tel\u00c3\u00a9fono o visitando nuestro sitio web y utilizando nuestro sistema de reserva en l\u00c3\u00adnea."
+        },
+        {
+            "question": "\u00c2\u00bfAceptan seguro m\u00c3\u00a9dico?",
+            "answer": "S\u00c3\u00ad, aceptamos una variedad de seguros m\u00c3\u00a9dicos. Por favor, consulta nuestra lista de seguros aceptados en nuestro sitio web."
+        },
+
+        {
+            "question": "Hola como estas",
+            "answer": "Hola estoy bien y tu?"
+        },
+        {
+            "question": "Cual es tu nombre?",
+            "answer": "Mi nombre es javiera"
+        },
+        {
+            "question": "me alegra crear mi primer chat boots",
+            "answer": "a mi tambien!"
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el proceso para reservar una consulta?",
+            "answer": "Debes ingresar a nuestro sitio web y seleccionar el dia, hora y profesional"
+        },
+        {
+            "question": "Tengo una cita agendada, pero necesito cancelarla. \u00bfC\u00f3mo lo hago?",
+            "answer": "deseas cancelar tu cita medica? 1 SI y 2 No"
+        },
+        {
+            "question": "deseo cancelar mi cita",
+            "answer": "Ingresa 1 para cancelar y 2 para re agendar"
+        },
+        {
+            "question": "cual es mi pais",
+            "answer": "chile"
+        },
+        {
+            "question": "sabes ingles?",
+            "answer": "como me llamo"
+        },
+        {
+            "question": "hola",
+            "answer": "Hola como estas?"
+        },
+        {
+            "question": "Estoy bien y tu?",
+            "answer": "Bien tambien, en que puedo ayudarte el d\u00eda de hoy?"
+        },
+        {
+            "question": "Cual es el teams kk",
+            "answer": "Hugo, Felipe, Saul, Michael, Cami"
+        },
+        {
+            "question": "como me llamo",
+            "answer": "Javiera"
+        }
+    ]
+}
